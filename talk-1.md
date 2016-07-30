@@ -92,6 +92,42 @@ AngularJS：
 - x 性能问题
 - x 组件化不够彻底
 
+其他框架参见 [ToDoMVC](http://todomvc.com/)
+
 ### 人类英雄
 
 React：
+
+ - MVC 模型中的 V (View)
+ - 数据单向流动
+ - √ Virtual-DOM-diff 算法提升性能
+ - √ JSX + WebPack 实现彻底组件化
+
+JSX -> Virtual DOM -> Real DOM / Native iOS / Native Android
+
+ReactNative:
+
+ - Native, not hybrid
+ - 用 native JavaScript 引擎解释执行
+ - JavaScript <-> JSBridge <-> Native Code
+ - ...
+
+## 工欲善其事
+
+前端开发常用工具
+
+### 命令行工具
+
+ - npm: 依赖管理工具
+ - WebPack: 构建、打包工具
+ - Babel: 转译工具
+
+### IDE / 文本编辑器
+
+ - WebStorm
+ - Sublime / Atom
+ - ...
+
+### 调试工具：浏览器
+
+ - Chrome DevTools
