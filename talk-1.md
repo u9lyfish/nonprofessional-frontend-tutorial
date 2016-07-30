@@ -131,3 +131,9 @@ ReactNative:
 ### 调试工具：浏览器
 
  - Chrome DevTools
+
+## 参考链接
+
+1. [OSCON 2014 - How Instagram.com Works; Pete Hunt](http://www.tudou.com/programs/view/6KB6lNbVzhs/)
+2. [Code Schoool - Discover DevTools](https://www.codeschool.com/courses/discover-devtools)
+3. [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
