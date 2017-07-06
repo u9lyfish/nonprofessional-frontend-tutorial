@@ -101,7 +101,7 @@ React：
  - MVC 模型中的 V (View)
  - 数据单向流动
  - √ Virtual-DOM-diff 算法提升性能
- - √ JSX + WebPack 实现彻底组件化
+ - √ JSX + Webpack 实现彻底组件化
 
 JSX -> Virtual DOM -> Real DOM / Native iOS / Native Android
 
@@ -119,7 +119,7 @@ ReactNative:
 ### 命令行工具
 
  - npm: 依赖管理工具
- - WebPack: 构建、打包工具
+ - Webpack: 构建、打包工具
  - Babel: 转译工具
 
 ### IDE / 文本编辑器
